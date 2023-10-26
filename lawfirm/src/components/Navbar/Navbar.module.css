@@ -1,0 +1,26 @@
+.wrapperContainer {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.navigation ul {
+    display: flex;
+    align-self: center;
+    justify-content: center;
+    color: var(--color-white);
+    list-style: none;
+    gap: 2.56rem;
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+.contactName {
+    border: 2px solid var(--color-white);
+    width: 10.75rem;
+    height: 2.9375rem;
+    background: #111;
+    color: var(--color-white);
+    font-size: 1rem;
+    font-weight: 600;
+}
