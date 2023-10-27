@@ -21,11 +21,10 @@ html,
 body {
     font-size: 14px;
     height: 100%;
-    background-color: #111;
 }
 
 body {
     font-family: 'Inter', sans-serif;
     overflow-x: hidden;
-    padding: 2.5rem 11.49rem;
+    background: #1d1d1d;
 }

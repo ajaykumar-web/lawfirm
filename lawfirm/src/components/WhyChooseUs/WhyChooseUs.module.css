@@ -1,0 +1,14 @@
+.mainHeading {
+    color: var(--color-white);
+    font-size: 3.375rem;
+    font-style: normal;
+    font-weight: 600;
+    text-align: center;
+}
+.wrapperContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 7.5rem 0;
+    column-gap: 2.5rem;
+}

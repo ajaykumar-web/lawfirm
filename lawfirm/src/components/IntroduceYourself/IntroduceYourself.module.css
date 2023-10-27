@@ -1,0 +1,37 @@
+.wrapperContainer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 7.5rem 0;
+    column-gap: 7.5rem;
+}
+
+.beginningWrapper {
+    border-right: 2px solid #6a6a6a;
+    width: 0.0625rem;
+    height: 12.875rem;
+}
+.mainHeading {
+    color: var(--color-white);
+    font-size: 3.375rem;
+    font-weight: 600;
+}
+
+.subHeading {
+    color: var(--color-white);
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+.mainDescription {
+    color: var(--color-white);
+    font-size: 1.125rem;
+    font-weight: 500;
+    opacity: 0.3;
+    padding: 0.75rem 0;
+    line-height: 162.523%;
+}
+
+.mainImage {
+    width: 27.71944rem;
+}

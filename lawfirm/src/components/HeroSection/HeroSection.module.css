@@ -3,6 +3,8 @@
     align-items: center;
     justify-content: center;
     gap: 7.5rem;
+    background-color: #111;
+    padding: 5.5rem 0;
 }
 
 .mainHeading {
